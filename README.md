@@ -88,7 +88,7 @@ If you wish to train the ASL detection model on your own dataset:
 
 # License
 
-This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 # Acknowledgments
 
